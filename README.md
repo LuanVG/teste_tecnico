@@ -1,1 +1,1 @@
-/Teste tecnico solicitado no processo seletivo
+Teste tecnico solicitado no processo seletivo
